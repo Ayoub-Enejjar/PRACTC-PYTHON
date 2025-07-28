@@ -23,5 +23,9 @@ while not game_over:
           
     if "_" not in empty:
         print("You win :) You guess the full word")
-        game_over = True
+        game_over = True                        
 
+print("The secret word was:", secret)
+print("Thank you for playing")
+# End of the game
+# This is a simple word guessing game where the player has to guess letters in a secret word
