@@ -14,7 +14,7 @@ game_over = False
 
 while not game_over:
     choice = str(input("Enter your guess letter: ")).lower()
-    for position in range(len(secret)): # loop through each letter in the secret word
+    for position in range(len(secret)): 
         letter = secret[position]
         if choice == letter :
             empty[position]= letter
