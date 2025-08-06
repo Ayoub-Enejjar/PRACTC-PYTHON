@@ -29,4 +29,3 @@ print("The secret word was:", secret)
 print("Thank you for playing")
 # End of the game
 # This is a simple word guessing game where the player has to guess letters in a secret word 
-
