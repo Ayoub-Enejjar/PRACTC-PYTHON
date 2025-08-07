@@ -1,8 +1,4 @@
 """Functions for calculating steps in exchanging currency.
-
-Python numbers documentation: https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
-
-Overview of exchanging currency when travelling: https://www.compareremit.com/money-transfer-tips/guide-to-exchanging-currency-for-overseas-travel/
 """
 
 
